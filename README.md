@@ -1,4 +1,4 @@
-Hello there! This is my GitHub profile 👋 <br>
+Hello there! 👋💜 This is my GitHub profile 👩‍💻 <br>
 *I mainly work on personal projects here.*
 
 I'm a Full Stack Developer specializing in web, mobile, and game development, with a strong focus on front-end and a working knowledge of back-end technologies.
