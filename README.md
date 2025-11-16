@@ -6,7 +6,10 @@ I'm a Full Stack Developer specializing in web, mobile, and game development, wi
 Currently working on my indie game, "Void Of Space" with Unity Engine: <br>
 ✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
 
-My main stacks are: <br>
+My favorite stacks: <br>
+`  Vue  ` `  Nuxt  `
+
+My main stacks: <br>
 `  Unity  ` `  React  `  `  Angular  ` `  Vue  `  `  React-Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
 
 Other stacks: <br>
