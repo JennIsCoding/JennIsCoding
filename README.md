@@ -1,5 +1,5 @@
 Hello there! 👋💜 This is my GitHub profile 👩‍💻 <br>
-*I mainly work on personal projects here.*
+*I mainly work on personal projects, and private repos here.*
 
 I'm a Full Stack Developer focused on web, mobile, and game development, with a strong emphasis on front-end and solid working knowledge of back-end technologies.
 
