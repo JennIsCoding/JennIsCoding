@@ -1,44 +1,46 @@
-Hello there! 👋💜 This is my GitHub profile 👩‍💻 <br>
-*I mainly work on personal projects, and private repos here.*
+# Hello there! 👋💜
 
-I'm a Full Stack Developer focused on web, mobile, and game development, with a strong emphasis on front-end and solid working knowledge of back-end technologies.
+I'm a **Full Stack Developer** working across **web, mobile, and game development**, with a strong focus on front-end development and experience building back-end integrations.
 
-Currently working on my indie game, "Void Of Space" with Unity Engine: <br>
-✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
+I build websites, mobile apps, and interactive experiences—from interfaces and API integrations to indie games. Much of my professional work lives in private repositories; here, I also share personal projects and explore new ideas.
 
-My favorite stacks: <br>
-`  Vue  ` `  Nuxt  `
+## 🎮 Indie games
 
-My game egines: <br>
-`  Unity  ` `  Godot  ` `  GameMaker2  ` `  UDK4  `
+**Void Of Space**  
+My indie game, currently being developed with **Godot**.  
+[Check it out on Steam](https://store.steampowered.com/app/898220/Void_Of_Space/)
 
-My main stacks: <br>
-`  Unity  ` `  React  `  `  Angular  ` `  Vue  `  `  React-Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
+**Broken Heroine**  
+My game project featuring exploration, combat, and character progression. I'm developing its gameplay systems, interfaces, and world, including the town of Eldoria.
 
-Other stacks: <br>
-`  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  ` `  Wordpress  `
+## 💻 Web & mobile
 
-Languages: <br>
-`  C#  ` `  HTML5  ` `  CSS3  ` `  SCSS  ` `  SASS  ` `  PHP  ` `  JavaScript  ` `  TypeScript  ` `  Python  ` 
+My work includes responsive websites, mobile applications, reusable interfaces, and API integrations.
 
-Tools: <br>
-`  GIT  ` `  Docker  ` `  WSL  ` `  Tailwind  ` `  Bootstrap  ` `  RxJS  ` `  Redux  ` `  Zustand  ` `  Postman   ` `  MySQL  ` `  Figma  `
+## 🛠️ Technologies
 
-OS: <br>
-`  Ubuntu  ` `  Mint  ` `  Windows  `
+**Favorites**  
+`Vue` · `Nuxt`
 
+**Front-end & web**  
+`React` · `Next.js` · `Vue` · `Nuxt` · `Angular` · `Astro`
 
-<!--
-**JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile**  
+`React Native` · `Flutter` · `Ionic`
 
-Here are some ideas to get you started:
+**Back-end & data**  
+`Laravel` · `Express` · `MySQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Game development**  
+`Godot` · `Unity` · `GameMaker`
+
+**Languages & styling**  
+`TypeScript` · `JavaScript` · `C#` · `PHP` · `Python`  
+`HTML` · `CSS` · `Sass/SCSS` · `Tailwind CSS` · `Bootstrap`
+
+**Tools & workflow**  
+`Git` · `Docker` · `WSL` · `Postman` · `Figma`
+
+---
+
+💜 I enjoy bringing ideas to life through thoughtful interfaces, practical software, and games with their own identity.
