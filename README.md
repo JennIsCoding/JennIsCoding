@@ -6,13 +6,19 @@ I build websites, mobile apps, and interactive experiences—from interfaces and
 
 ## 🎮 Indie games
 
-**Void Of Space**  
-My indie game, currently being developed with **Godot**.  <br>
-[Check it out on Steam](https://store.steampowered.com/app/898220/Void_Of_Space/)
+## My Games
 
-**Broken Heroine**  
-My game project featuring exploration, combat, and character progression. I'm developing its gameplay systems, interfaces, and world, including the town of Eldoria. <br>
-[Check it out on my WebSite](https://www.geemustudios.com.br/)
+### Void Of Space
+
+My main project, a sci-fi survival RPG set aboard the Genesis IV, a colony ship stranded above an unknown alien planet. Explore the abandoned ship, craft weapons and equipment, and uncover what happened to its crew. The game is in development and planned for a paid release on Steam.
+
+[Wishlist on Steam](https://store.steampowered.com/app/898220/Void_Of_Space/)
+
+### Broken Heroine
+
+A free game project featuring exploration, combat, and character progression. I’m building its world, including the town of Eldoria, as a way to share my work as a game developer.
+
+[Visit my website](https://www.geemustudios.com.br/)
 
 ## 💻 Web & mobile
 
